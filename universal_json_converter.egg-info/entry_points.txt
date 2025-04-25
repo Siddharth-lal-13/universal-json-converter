@@ -1,0 +1,2 @@
+[console_scripts]
+ujconvert = main:main

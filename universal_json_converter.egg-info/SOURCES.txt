@@ -1,0 +1,11 @@
+LICENSE
+README.md
+main.py
+pyproject.toml
+setup.py
+universal_json_converter.egg-info/PKG-INFO
+universal_json_converter.egg-info/SOURCES.txt
+universal_json_converter.egg-info/dependency_links.txt
+universal_json_converter.egg-info/entry_points.txt
+universal_json_converter.egg-info/requires.txt
+universal_json_converter.egg-info/top_level.txt
