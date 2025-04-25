@@ -11,7 +11,6 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 ![File Size Limit](https://img.shields.io/badge/Max%20File%20Size-Unlimited-success)
-[![PyPI version](https://badge.fury.io/py/universal-json-converter.svg)](https://badge.fury.io/py/universal-json-converter)
 ![Stars](https://img.shields.io/github/stars/Siddharth-lal-13/universal-json-converter?style=social)
 
 ---
