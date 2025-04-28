@@ -7,7 +7,7 @@
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 ![File Size Limit](https://img.shields.io/badge/Max%20File%20Size-Unlimited-success)
@@ -139,7 +139,11 @@ https://github.com/Siddharth-lal-13/universal-json-converter
 
 ## 📄 License
 
-**MIT License** – You're free to use, modify, and share with proper credit.
+This project is licensed under the **Apache License 2.0**.
+
+You are free to use, modify, and distribute this software, provided that proper credit is given and a copy of the NOTICE file is included with redistributions.
+
+For full license details, see the [LICENSE](https://github.com/Siddharth-lal-13/universal-json-converter/blob/main/LICENSE) file.
 
 > Please give credit if you use it publicly. For commercial licensing or collaboration, email me.
 
