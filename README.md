@@ -3,7 +3,7 @@
 > Convert files to/from JSON effortlessly — with streaming support for large datasets! 🚀📈
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Siddharth-lal-13/universal-json-converter/main/logo.png" width="300" />
+  <img src="https://raw.githubusercontent.com/Siddharth-lal-13/universal-json-converter/main/logo.png" width="250" />
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)
