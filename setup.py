@@ -27,7 +27,7 @@ setup(
     url='https://github.com/Siddharth-lal-13/universal-json-converter',
     classifiers=[
         'Programming Language :: Python :: 3',
-        'License :: OSI Approved :: MIT License',
+        'License :: OSI Approved :: Apache Software License',
         'Operating System :: OS Independent',
     ],
     python_requires='>=3.7',
